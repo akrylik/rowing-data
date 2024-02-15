@@ -1,0 +1,12 @@
+artifacts
+packer_cache
+.vagrant
+.venv*
+.vscode
+*.jar
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+.local_softwares
+__pycache__
